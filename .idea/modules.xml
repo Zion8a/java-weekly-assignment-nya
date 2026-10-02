@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Weekly/Java Weekly.iml" filepath="$PROJECT_DIR$/Java Weekly/Java Weekly.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-weekly-assignment-nya.iml" filepath="$PROJECT_DIR$/.idea/java-weekly-assignment-nya.iml" />
     </modules>
   </component>
